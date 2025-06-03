@@ -31,7 +31,3 @@ java -jar target/api-bdd-generator-1.0-SNAPSHOT.jar [options]
   ```sh
   java -jar api-bdd-generator-1.0-SNAPSHOT.jar --help
   ```
-
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.\`\`\`
